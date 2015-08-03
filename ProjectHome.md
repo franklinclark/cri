@@ -1,0 +1,1 @@
+A suite of programs that work interdependently.  The interface allows dynamic motion and irc visualization that is powered by Python OpenGL and ATT Text-to-Speech API.
